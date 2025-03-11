@@ -18,8 +18,8 @@ This project, part of the 42 school curriculum, implements a linear regression m
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/yourrepo.git
-    cd yourrepo/ft_linear_regression
+    git clone https://github.com/FastaLaPasta/Ft_linear_regression.git
+    cd Ft_linear_regression
     ```
 
 2. **Install Dependencies:**
